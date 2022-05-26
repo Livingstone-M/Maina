@@ -1,0 +1,41 @@
+.a{
+    height: 3vw;
+    background-color: white;
+}
+.b{
+    height: 30vh;
+    background: url("images/About cover.png");
+    width: 100%;
+}
+.c{
+    height: 50vw;
+    background-color: white;
+}
+.d{
+    height: 20vw;
+    background-color: #ffdf7e;
+}
+.e{
+    height: 4vw;
+    background-color: white;
+    margin-bottom: unset;
+}
+.home{
+    height: 100vh;
+    background: url("images/blue horizon.png");
+}
+.login{
+    background: url("images/Login.png");
+    height: 100%;
+    width: 100%;
+}
+.image{
+    height: 4vw;
+    width: 10%;
+}
+.button1{
+    height: 4vw;
+    background-color: rebeccapurple;
+    margin-left: 10%;
+    width: 20%;
+}
